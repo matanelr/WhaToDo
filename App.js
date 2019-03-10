@@ -156,16 +156,17 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
   headerText: {
-    fontSize: 18,
+    fontSize: 25,
     color: 'black',
     padding: 26,
+
   },
   header: {
-    backgroundColor: '#E91E63',
+    backgroundColor: '#ffb6c1',
     alignItems: 'center',
     justifyContent: 'center',
-    borderBottomWidth: 20,
+    borderBottomWidth: 10,
     borderBottomColor: '#ddd',
-    margin: 1,
+    margin: 2,
   },
 });
